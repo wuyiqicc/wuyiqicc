@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!  I’m @wuyiqicc and I’m interested in distributed system, cloud computing, developer efficiency toolings, tennis, ping pong and weight training. 🌱 I’m currently an Engineering Manager working at Reddit. 📫 How to reach me: me@yiqiwu.pro </h2>
+<h2 align="left">Hi 👋!  I’m @wuyiqicc and I’m interested in eCommerce. distributed system, cloud computing, developer efficiency toolings, tennis, ping pong and weight training. 🌱 I’m Founder & CEO of Aimerce. ex-engineering manager at Reddit, ex-engineer at Facebook & Instagram. 📫 How to reach me: me@yiqiwu.pro </h2>
 
 ###
 
